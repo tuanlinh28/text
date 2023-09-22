@@ -1,0 +1,9 @@
+Một trang web đặt phòng khách sạn cần có các tính năng sau để đảm bảo trải nghiệm tốt cho người dùng và quản lý hiệu quả cho quản trị viên:
+1.	Tìm kiếm và lựa chọn phòng: Cho phép người dùng tìm kiếm các khách sạn, khu nghỉ, hoặc căn hộ dựa trên vị trí, giá cả, loại phòng, và các tiện ích.
+2.	Xem chi tiết phòng: Hiển thị thông tin chi tiết về từng phòng, bao gồm hình ảnh, mô tả, tiện nghi, diện tích, và giá.
+3.	Đặt phòng trực tuyến: Cho phép người dùng đặt phòng một cách dễ dàng thông qua một giao diện thân thiện và an toàn. Hỗ trợ thanh toán trực tuyến qua các phương thức khác nhau như thẻ tín dụng, ví điện tử, chuyển khoản ngân hàng, và tiền mặt khi nhận phòng.
+4.	Quản lý đặt phòng: Dành cho khách sạn, cho phép họ quản lý và xác nhận các đặt phòng, kiểm tra lịch trống, và thay đổi thông tin phòng.
+5.	Tạo tài khoản người dùng: Để lưu trữ thông tin cá nhân của người dùng, lịch sử đặt phòng, và để họ có thể quản lý đặt phòng dễ dàng hơn trong tương lai.
+6.	Hệ thống quản lý dự trữ: Giúp khách sạn theo dõi lịch đặt phòng, quản lý số lượng phòng trống và hạn chế đặt phòng quá mức.
+7.	Chính sách hủy đặt phòng: Hiển thị rõ ràng và dễ hiểu chính sách hủy đặt phòng để người dùng biết trước về quy định trong trường hợp họ cần hủy đặt.
+8.	Thanh toán trực tuyến: Cho phép người dùng thanh toán trực tuyến thông qua các phương thức thanh toán phổ biến như thẻ tín dụng, thẻ ghi nợ, ví điện tử (như PayPal, Apple Pay, Google Pay), hoặc chuyển khoản ngân hàng. Đảm bảo rằng hệ thống thanh toán phải được bảo mật và tuân theo các tiêu chuẩn bảo mật dữ liệu.
